@@ -1,0 +1,5 @@
+import(RSQLite)
+import(DT)
+import(corpustools)
+
+exportPattern("^[[:alpha:]]+")
